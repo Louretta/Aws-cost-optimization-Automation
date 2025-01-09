@@ -1,0 +1,12 @@
+# .gitignore
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!example.tfvars
+.env
+*.zip
+.DS_Store
+.idea/
+.vscode/
+*.log
