@@ -1,4 +1,4 @@
-This project implements a comprehensive AWS cost management and resource optimization solution using Infrastructure as Code 
+This project implements a comprehensive AWS cost management and resource optimization solution using Infrastructure as Code curated by myself 
 ![diagram 3](https://github.com/user-attachments/assets/fa3fb434-0f67-45fb-aea6-ef2e95b568da)
 
 Automating tasks like tagging, monitoring, cost analysis, and optimization, you can ensure more efficient, accurate, and cost-effective management of your resources. It's a smart approach that frees up your time to focus on more strategic activities
