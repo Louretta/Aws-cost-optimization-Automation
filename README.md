@@ -3,33 +3,29 @@ This project implements a comprehensive AWS cost management and resource optimiz
 
 Automating tasks like tagging, monitoring, cost analysis, and optimization, you can ensure more efficient, accurate, and cost-effective management of your resources. It's a smart approach that frees up your time to focus on more strategic activities
 
-Project Impact
-Cost reduction metrics
-Resource optimization results
-Automation benefits
-Monitoring improvements
-Security enhancements
-Project Components
+Project Impact Include 
+Cost reduction metrics,
+Resource optimization results,
+Automation benefits,
+Monitoring improvements,
+Security enhancements,
+The Project Components includes
+Infrastructure as Code,
+Terraform configuration,
+Module organization,
+Resource definitions,
+Variable management,
+and Cost Management includes
+Budget implementation,
+Alert configuration,
+Cost reporting setup,
+Optimization strategies.
 
-Infrastructure as Code
-Terraform configuration
-Module organization
-Resource definitions
-Variable management
-
-
-Cost Management
-Budget implementation
-Alert configuration
-Cost reporting setup
-Optimization strategies
-
-Monitoring & Automation
-CloudWatch integration
-Lambda functions
-Scheduling implementation
-Alert system
-
+Monitoring & Automation used rwas
+CloudWatch integration,
+Lambda functions,
+Scheduling implementation,
+Alert system,
 Security & Compliance
 IAM configuration
 Policy implementation
