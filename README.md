@@ -21,24 +21,24 @@ Alert configuration,
 Cost reporting setup,
 Optimization strategies.
 
-Monitoring & Automation used rwas
+Monitoring & Automation used was
 CloudWatch integration,
 Lambda functions,
 Scheduling implementation,
 Alert system,
-Security & Compliance
-IAM configuration
-Policy implementation
-Access management
-Audit capabilities
+Security & Compliance,
+IAM configuration,
+Policy implementation,
+Access management,
+Audit capabilities,
 
-Best Practices Demonstrated
-Infrastructure as Code
-Modular Design
-Security First Approach
-Cost Optimization
-Automated Resource Management
-Comprehensive Monitoring
-Scalable Architecture
+Best Practices Demonstrated was
+Infrastructure as Code,
+Modular Design,
+Security First Approach,
+Cost Optimization,
+Automated Resource Management,
+Comprehensive Monitoring,
+Scalable Architecture.
 
 Feel free to fork and contribute 
